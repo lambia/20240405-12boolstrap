@@ -1,0 +1,21 @@
+body {
+	background: #222;
+	color: white;
+	font-family: sans-serif;
+}
+
+.box {
+	padding: 1rem;
+	background: crimson;
+	text-align: center;
+	height: 100%;
+	border: solid 2px #222;
+}
+
+.box-orange {
+	padding: 1rem;
+	background: orange;
+	text-align: center;
+	border: solid 2px #222;
+	height: 100%;
+}
